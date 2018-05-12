@@ -1,5 +1,8 @@
 _repo: Spalding-s-Baseball-Guide-and-Official-League-Book-for-1895_9916
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   editor:
     agent_name: Chadwick, Henry
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3069
     wikipedia: http://en.wikipedia.org/wiki/Henry_Chadwick
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9916#Spalding-s-Baseball-Guide-and-Official-League-Book-for-1895
 gutenberg_issued: '2006-02-01'
 gutenberg_type: Text
 identifiers:
